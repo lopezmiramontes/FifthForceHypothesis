@@ -1,5 +1,3 @@
-# FifthForceHypothesis
-Research notes, derivations, and open call for collaboration on a candidate fifth force hypothesis.
 # Fifth Force Hypothesis
 
 Research notes, derivations, and open call for collaboration on a candidate fifth force hypothesis.
@@ -8,7 +6,13 @@ Research notes, derivations, and open call for collaboration on a candidate fift
 
 ## Abstract
 
-A minimal parameterized formulation of a hypothetical fifth fundamental force, motivated by unresolved anomalies in gravitation and cosmology. Presented as a mathematically explicit foundation intended for collaborative development rather than a complete theory.
+A minimal parameterized formulation of a hypothetical fifth fundamental force, motivated by unresolved anomalies in gravitation and cosmology. This project is in an early exploratory phase and is shared publicly to invite open collaboration from the scientific community.
+
+The aim is to provide a mathematically explicit foundation while encouraging contributions in:
+- Theoretical derivation and refinement
+- Experimental constraint analysis
+- Simulation and parameter-space exploration
+- Critical peer review
 
 ---
 
